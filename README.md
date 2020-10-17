@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <img alt="design do projeto" width="650px" src="./.github/design.png" />
+  <img alt="design do projeto" width="650px" src="./github/design.png" />
 <p>
 
 ## :bookmark: Sobre
